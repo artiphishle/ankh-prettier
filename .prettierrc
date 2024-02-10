@@ -1,13 +1,13 @@
 {
-	"experimentalTernaries": false,
+  "experimentalTernaries": false,
   "printWidth": 80,
   "tabWidth": 2,
   "useTabs": false,
   "semi": true,
-  "singleQuote": true,
+  "singleQuote": false,
   "quoteProps": "as-needed",
   "jsxSingleQuote": false,
-  "trailingComma": "all",
+  "trailingComma": "none",
   "bracketSpacing": true,
   "jsxBracketSameLine": false,
   "arrowParens": "always",
@@ -22,4 +22,4 @@
   "endOfLine": "lf",
   "embeddedLanguageFormatting": "auto",
   "singleAttributePerLine": false
-} 
+}

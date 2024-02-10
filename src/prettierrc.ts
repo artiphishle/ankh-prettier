@@ -4,7 +4,7 @@ import {
   EEmbeddedLanguageFormatting,
   EHtmlWhitespaceSensitivity,
   EQuoteProps,
-  ETrailingComma,
+  ETrailingComma
 } from "./types/enums";
 
 /**
@@ -212,5 +212,5 @@ export default {
    * @version v2.6.0
    * @config
    */
-  singleAttributePerLine: false,
+  singleAttributePerLine: false
 };
