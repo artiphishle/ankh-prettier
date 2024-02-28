@@ -1,5 +1,5 @@
 {
-  "name": "prettierrc",
+  "name": "ankh-prettier",
   "version": "1.0.0",
   "description": "Prettier default configuration for all versions, generate prettierrc. files",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/artiphishle/prettierrc.git"
+    "url": "git+https://github.com/artiphishle/ankh-prettier.git"
   },
   "keywords": [
     "prettier",
@@ -19,7 +19,7 @@
   "author": "artiphishle",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/artiphishle/prettierrc/issues"
+    "url": "https://github.com/artiphishle/ankh-prettier/issues"
   },
-  "homepage": "https://github.com/artiphishle/prettierrc#readme"
+  "homepage": "https://github.com/artiphishle/ankh-prettier#readme"
 }

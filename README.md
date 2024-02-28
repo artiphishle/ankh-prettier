@@ -1,4 +1,4 @@
-# prettierrc
+# ankh-prettier
 
 ## Ready
 

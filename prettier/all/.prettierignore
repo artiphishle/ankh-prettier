@@ -4,6 +4,3 @@
 # **/.git
 # **/.svn
 # **/.hg
-
-# ESLint
-.eslintignore
